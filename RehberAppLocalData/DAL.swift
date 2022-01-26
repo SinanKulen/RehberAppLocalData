@@ -95,6 +95,7 @@ class DAL
                 return telefon[0]
             }
         }  catch {
+            
         }
         return nil
     }
